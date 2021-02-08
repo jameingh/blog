@@ -412,7 +412,7 @@ post_meta:
   # Dependency: https://github.com/willin/hexo-wordcount/
   # !!! Don't enable this before install dependency by `npm install hexo-wordcount --save` in hexo root directory.
   word_count:
-    enable: true
+    enable: false
     # Icon name in FontAwesome, see: https://fontawesome.com/icons
     icon: far fa-file-word
 
@@ -464,17 +464,17 @@ stick_top:
 # Gittalk
 # See: https://github.com/gitalk/gitalk/
 gitalk:
-  enable: true
+  enable: false
   # Github username.
   owner: jameingh
   # Github repository.
   repo: jameingh.github.io
   # Github Application Client ID.
-  client_id: e2fbdef47a59392ba0d6
+  client_id: 61027f5c8963e414dea4
   # Github Application Client Secret.
-  client_secret: 79ca6eec8774e3d09c3156766ef32afdf13f39af
+  client_secret: e76a82c2a48f94a1cbbc8c384af163c2f3c9aee1
   # GitHub repo owner and collaborators, only these guys can initialize github issues.
-  admin: ['jameingh', 'xinrong2019']
+  admin: ['jameingh']
   # Facebook-like distraction free mode.
   distraction_free_mode: true
   # Gitalk's display language depends on user's browser or system environment.
@@ -607,7 +607,7 @@ fbcomments:
 # Busuanzi statistics
 # See: https://busuanzi.ibruce.info/
 busuanzi:
-  enable: false
+  enable: true
   # Only show by icon.
   icon_only: false
   # Number of unique visitor to the entire site.
