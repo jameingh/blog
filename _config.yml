@@ -109,33 +109,3 @@ deploy:
   type: git
   repo: git@github.com:jameingh/jameingh.github.io.git
   branch: main
-
-# ---------------------------------------------------------------
-# Menu config
-# ---------------------------------------------------------------
-
-# The menu in the website header.
-# Value before `||` is the target link, value after `||` is the name of FontAwesome icon.
-# Usage(With Icon): `Key: /link/ || fa(s|r|l|d|b) fa-iconname`
-# Usage(No Icon)  : `Key: /link/`
-# Select your icon name, see: https://fontawesome.com/icons
-menu:
-  home: / || fas fa-home
-  archives: /archives/ || fas fa-folder-open
-  categories: /categories/ || fas fa-layer-group
-  tags: /tags/ || fas fa-tags
-  # You can add a secondary menu like follow.
-  # xxx1: javascript:; || fa(s|r|l|d|b) fa-xxx
-
-# Secondary menu
-submenu:
-  # Add item of secondary menu in here.
-  # xxx1:
-  #   xxx1-1: /xxx1-1/ || fa(s|r|l|d|b) fa-xxx
-  #   xxx1-2: /xxx1-2/ || fa(s|r|l|d|b) fa-xxx
-
-menu_settings:
-  # Only show by icon.
-  icon_only: false
-  # Only show by text.
-  text_only: false
