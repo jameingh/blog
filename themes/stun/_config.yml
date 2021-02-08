@@ -468,19 +468,19 @@ gitalk:
   # Github username.
   owner: jameingh
   # Github repository.
-  repo: https://github.com/jameingh/jameingh.github.io
+  repo: jameingh.github.io
   # Github Application Client ID.
   client_id: e2fbdef47a59392ba0d6
   # Github Application Client Secret.
   client_secret: 79ca6eec8774e3d09c3156766ef32afdf13f39af
   # GitHub repo owner and collaborators, only these guys can initialize github issues.
-  admin: jameingh,xinrong2019
+  admin: ['jameingh', 'xinrong2019']
   # Facebook-like distraction free mode.
   distraction_free_mode: true
   # Gitalk's display language depends on user's browser or system environment.
   # If you want everyone visiting your site to see a uniform language, you can set a force language value.
   # Optional values: en | zh-CN | es-ES | fr | ru | zh-TW
-  language: zh-CN,en
+  language: zh-CN
 
 # Waline
 # See: https://waline.js.org/
