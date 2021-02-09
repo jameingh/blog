@@ -105,7 +105,12 @@ theme: stun
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: git@github.com:jameingh/jameingh.github.io.git
-  branch: main
+# deploy:
+#   type: git
+#   repo: git@github.com:jameingh/jameingh.github.io.git
+#   branch: main
+
+search:
+  path: search.json
+  field: post
+  content: true

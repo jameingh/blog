@@ -626,11 +626,11 @@ busuanzi:
 
 # Google analytics ID
 # See: https://analytics.google.com/
-google_analytics:
+google_analytics: UA-188297593-1
 
 # Baidu analytics ID
 # See: https://tongji.baidu.com/
-baidu_analytics:
+baidu_analytics: 8f98b424a03f1b513dca746cbba4d2e1
 
 # Tencent analytics ID
 # See: https://v2.ta.qq.com/
@@ -654,7 +654,7 @@ algolia_search:
 # Local Search
 # See: https://github.com/wzpan/hexo-generator-search/
 local_search:
-  enable: false
+  enable: true
 
 # Auxiliary search buttons
 # ! -----------------------------------------------------------------------------------------
@@ -812,8 +812,8 @@ pjax:
 
 # Google AdSense
 google_adsense:
-  enable: false
-  client:
+  enable: true
+  client: ca-pub-8134618605154179
   js_src: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 
 # The links with `target="_blank"` attribute.
