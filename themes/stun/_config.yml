@@ -305,18 +305,24 @@ author:
 # e.g. `origin:sf`, so `sf` will be displayed.
 social:
   github: https://github.com/jameingh || fab fa-github
+  gitee: https://gitee.com/jinxin.70 || origin:码
+  cnblogs: https://www.cnblogs.com/xinrong2019/ || origin:C
+  oschina: https://my.oschina.net/jinxinaijiarong || origin:开
   google: https://plus.google.com/ || fab fa-google
   twitter: https://twitter.com/ || fab fa-twitter
   youtube: https://youtube.com/ || fab fa-youtube
   segmentfault: https://segmentfault.com/ || origin:sf
   weibo: https://weibo.com/ || fab fa-weibo
   zhihu: https://www.zhihu.com/ || origin:知
+  weread: https://weread.qq.com/ || origin:微
+  geekbang: https://time.geekbang.org/dashboard/course || origin:极
+  imooc: https://www.imooc.com/u/index/allcourses || origin:慕
   # wechat: yournumber || fab fa-weixin
   # telegram: yournumber || fab fa-telegram
   # qq: yournumber || fab fa-
   juejin: https://juejin.im/timeline || origin:掘
-  Gmail: mailto:jinxin70@gmail.com || origin:Gmail
-  QQmail: mailto:910135140@qq.com || origin:QQ 邮箱
+  # Gmail: mailto:jinxin70@gmail.com || origin:Gmail
+  # QQmail: mailto:910135140@qq.com || origin:QQmail
 
 social_setting:
   enable: true

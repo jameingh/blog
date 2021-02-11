@@ -47,6 +47,14 @@ social:
   telegram: Telegram
   qq: QQ
   juejin: 掘金
+  weread: 微信读书
+  geekbang: 极客时间
+  imooc: 慕课网
+  gitee: 码云
+  cnblogs: cnblogs
+  oschina: 开源中国
+  Gmail: gmail
+  QQmail: QQ邮箱
 
 # 文章
 post:
