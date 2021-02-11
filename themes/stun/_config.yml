@@ -308,10 +308,10 @@ social:
   gitee: https://gitee.com/jinxin.70 || origin:码
   cnblogs: https://www.cnblogs.com/xinrong2019/ || origin:C
   oschina: https://my.oschina.net/jinxinaijiarong || origin:开
-  google: https://plus.google.com/ || fab fa-google
-  twitter: https://twitter.com/ || fab fa-twitter
-  youtube: https://youtube.com/ || fab fa-youtube
-  segmentfault: https://segmentfault.com/ || origin:sf
+  #google: https://plus.google.com/ || fab fa-google
+  #twitter: https://twitter.com/ || fab fa-twitter
+  #youtube: https://youtube.com/ || fab fa-youtube
+  #segmentfault: https://segmentfault.com/ || origin:sf
   weibo: https://weibo.com/ || fab fa-weibo
   zhihu: https://www.zhihu.com/ || origin:知
   weread: https://weread.qq.com/ || origin:微
