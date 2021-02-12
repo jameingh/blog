@@ -25,6 +25,8 @@ echo "========= Git commit start ========="
 
 # git init 
 
+git pull
+
 git add . 
 
 git commit -m 'add files' 
