@@ -1,7 +1,12 @@
 ---
 title: 选择排序
 date: 2021-02-12 22:33:00
-tags: 算法
+tags: 
+  - 算法
+  - C++
+categories:
+  - [Algorithm]
+  - [C++]
 excerpt: 每次从剩余数组中找最小的数，然后与剩余数组第一个位置的数交换位置
 ---
 
