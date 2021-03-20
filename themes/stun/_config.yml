@@ -477,7 +477,7 @@ gitalk:
   # Github username.
   owner: jameingh
   # Github repository.
-  repo: jameingh.github.io
+  repo: 'jameingh.github.io'
   # Github Application Client ID.
   client_id: 61027f5c8963e414dea4
   # Github Application Client Secret.
