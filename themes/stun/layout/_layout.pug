@@ -43,7 +43,7 @@ html(lang=config.language)
             if (is_archive() && theme.post_list.paginate.archives) || is_category() || is_tag()
               include ./_partials/widgets/paginator.pug
 
-            if page.comments
+            if page.comments && is_post()
               include ./_partials/widgets/comments.pug
 
           if page.sidebar !== false && theme.sidebar.enable

@@ -473,7 +473,7 @@ stick_top:
 # Gittalk
 # See: https://github.com/gitalk/gitalk/
 gitalk:
-  enable: false
+  enable: true
   # Github username.
   owner: jameingh
   # Github repository.
