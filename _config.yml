@@ -4,9 +4,9 @@
 
 # Site
 title: Eucaly's blog
-subtitle: ''
-description: ''
-keywords:
+subtitle: '比勤奋更重要的是，深度思考'
+description: '记录和分享'
+keywords: 博客,后端,Java,算法,分布式,微服务,架构,业务开发,数据库,中间件,敏捷,管理,DDD,领域驱动设计,设计模式,搜索,消息队列
 author: kim
 language: 
 - zh-CN
